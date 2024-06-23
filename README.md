@@ -1,3 +1,15 @@
+# About application
+
+NewBuzz: it is the news reposive web application which can be used to get the news from India on the go.
+  It uses below libraries:
+  1. React
+  2. react-router-dom
+  3. react-top-loading-bar
+  4. Jest
+  5. react-infinite-scroll-component
+  6. prop-types
+  7. BootStrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
